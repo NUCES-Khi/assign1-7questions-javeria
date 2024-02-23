@@ -1,17 +1,39 @@
 # Assignment 1
 |Std ID|Name|
 |------|-|
-|K211234|Amjad Amjad|
-|K214321|Sajjid Sajjid|
+|K228721|Attaullah Ansar|
+|K228717|Javeria Rao|
 
 ## Q1
-Write your answer to question 1 here ....
-## Q2
-Write your answer to question 2 here ....
-## Q3
-Write your answer to question 3 here ....
-## Q4
-Write your answer to question 4 here ....
-## Q5
-Write your answer to question 5 here ....
+Objections Which Carry Weight: Religious Obhection : • Mathematical Objection • Argument From Consciousness • • Lady Lovelace’s Hands in sand objection
 
+Valid Refuations • Religious Objections: Turing not accepted it because ai only focuses on how we can make machines able to think in a optimal manner not on being a physical creatures. IT is is valid because AI only highlight and norishies the thinking perspective by maing it more powerful with various algorithms not on people religious beliefs an rituals
+
+• Heads in Sand objections: According to turing the goal to make AI is tou fuulfill technological needs in an optiamal manner and we are able to introduce logical thinkings in machines.It is valid becayuse the goal is to provide ethical and logical thinking
+
+• Mathematical Objection: According to turing we are theones who provide syatems how to think logically so they can be wrong because can made mistakes and according to him AI is not designed to solve all problems its limitation are not its hindrances for making it intellgent
+
+• Lady Lovelace’s objection:he suggests that machines are not exactly like human brains but in various sceenarious the have the ability to suggest unexpected solutions.It is a vlid refuation because nowadays many algorithm of AI give unexpected results •Nowadays AI has make tremendous progress in its inteeligence level there are many algorithms like k maens and many other which solves the problems efficiently so according to turing AI doesnot have 30% chance to meet his test like perfectly behave like humans
+## Q2
+Answers 1. Playing a decent game of table tennis (ping-pong). 1. It is solvable by computer by the robot arm which is equipped with a paddle, which is allowing it to mimic the actions of a human player. Motion sensors and cameras to track the movement of ball and predict it trajectory 2. Discovering and proving new mathematical theorems. Computers can solve mathematical theorems easily and excel in their work but discovering is quite challenging for computers due to the following reasons. Creativity an institution: Computers lack the property of creative thinking and may struggle to generate entirely new mathematical concepts. This process involves creativity institutions and insights which are the qualities associated with human mathematicians. Problem Understanding: Understanding the intricacies and depth of mathematical problems often requires a deep understanding of the broader mathematical context and the ability to make connections between various mathematical concepts. Hypothesis Generation: Formulating hypotheses and conjectures is the most important part while current AI systems are not replicable. Abstract Reasoning: Computers are proficient at formal logic while many mathematical proofs involve abstract reasoning and the ability to navigate through complex structures. 3. Writing a funny story Writing a funny story for computers is a task for computers due to the nuanced and subjective nature of humor. While computers can be programmed to generate jokes based on patterns. 4. Giving competent legal advice in a specialized area of law. It is challenging right now computers should know the total pros and cons of the specified case. It can be easier for computers to provide quantitative information than Qualitative. Legal issues sometimes involve complex statutes, rules and regulations, and strict case laws. Effective legal advice involves communication and understanding clients' needs, and concerns, listen to their disputes and goals. While AI tools can assist legal professionals in legal research, document review, and data analysis, they are not a proper
+substitute for judgment, and not obviously can give an advice because unaware of the pros and cons of cases while AI tools can assist legal professionals in legal research, document review, and data analysis, they are not a substitute for judgment, experience,
+Translating spoken English into spoken Urdu in real time. Real time translation of spoken English words ito urdu is a challenging task but there have been many adavancements in automatic speech recoginition ASR and MT technologies that aim to achieve this .Several companies have developed system that can perform this real time translation including English and urdu.
+## Q3
+Answer Domain :Smart Home Automation Environment Characteristics: Accescibility: It consisits of smart phones and various smart devices including lights thermostats ,security cameras and many other smart appliances Deterministic: Interations can be influenced by external factors like weather conditions ,user preferences so it can be deterministic Episodic: One have to getting up in the morning or adjusting the environment in response to specific event so it interactions can be episoadic Dynamic: Environment will be dynamic because of changing conditons like whether user routines device statuses and etc Continuous: Environment has need t of adjusting , monitoring continuously based on changing conditions Agent : The agent in this environment is Smart Home Assistant Designed to automate and optimize the smart home environment for inhabitants.As agent it will interact with smart devices,receives user preferences and make decisisons for convenient and comfortable environment. Agent Characterisitics: 1.Sensory Inputs: Agent receives input from various sensors which are embedded in smart devices like temperature sensors,motion detetors Cameras and by user preferneces through voice commands. 2.Actions: Agent can perform actions like adjusting thermostat,controlling lighting,activating security measures and optimizing energy usage 3.Goal: Enhance the living experience by automating routine tasks. 4.Learning: Agent will continuously learn by user prefeerneces like daily routines,Environmental conditions and ability to anticipate and fulfill the residents needs. 5.Agent Architecture: This agent basically do the two things one it reacts on immediate environment changes and user command using reactive componets.Secondly ,it plans and optimize routines based on historical data and user preferences so machine learning algorithm can be integrated to continuously adapt o changing user behaviour and prefernces so “Hybrid Agent Architecture” combining Reactive and Deliberative components is best for it .It will allows it to quick respose to immediate needs while making intelligent decisions.It will maintain balance between reactivity and proactive planning making it well suited for dynamic and continuous nature of the smart home automation domain.
+## Q4
+1.Shopping for used AI books on the Internet. 
+Environment :Website,internet,PC Performance measure:Prices,ease of site,shipping time,review,interetedbooks 
+Environment type:Not fully observable Acutators:Correct information user,keyboard Sensors:Picture,information ,eyes,camera 
+2.Bidding on an item at an auction Environment :oponents,item value,eagerness Performance measure:winning,Paying lowest price Acutators:Budget,itemvalue,Eagerness Sensors:eyes,ears,mouth,knowl edge of item 
+3.Playing a tennis match Environment type:Fully observable Environment :oponents,item value,eagerness Performance measure:stamin,lowering,missedballs Acutators:Stamina,Strength,Coordination Sensors:Eyes,Skill,Fooot work
+4.Performing a high jump Environment type: Fully abservable environment, need of one agent Performance Measure: height range in both directions ,landing time Environment:any source like walls,swings Actuators: legs ,any source which help in jump like rope Sensors: Camera,heights measures 
+5.Exploring the subsurface of Arabian Sea. Environment Type: Partially observable environment Performance Measure: Images Environment: Ocean, water, water organisms like sea weeds Actuators: Mobiles divers, steering or nay other object, brakes Sensors: High sensors,GPS,High quality camera
+## Q5
+1.True: An agent that can senses only partial infor mation about the prevailing state cannot be rational. It requires considering all availabe factors ans information. For example,A chess game here an agent can only see few squares on the board, so cannt be perfectly optimal because don not have a complete information
+2.True: There exist such task environments in which only pure reflex agents can behave rationally.they only base their actions on reflexes on current percept, not consider the entire history of percepts. In a chess game, a pure reflex agent moves a piece based only on the current board sttate not the history and without considering past moves may not make rational decisions.
+
+3.False: There may be sometask environments possibles where not every agent is rational. For example, in unpredictable environment,like rainfull prediction environmnet an agent may not have enough information or resources to make capable decisions
+
+4.False: The input are different to an agent program and agent function .it is not necessay to be same. The agent program deals with the entire percept history , while the agent function typoically deals with the current percept. For instance, the agent program can store percepts in memory as history and deal accordinglyy, while the agent function may only operate on the most recent percept
+
+5.True: Every agent function is implementable by some machine combination. The Church-Turing thesis suggests that any computable function can be implemented by a Turing machine. Agent functions are a subset of computable functions, so they can be implemented by suitable machines
